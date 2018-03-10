@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="bind_service">绑定service</string>
+    <string name="unbind_service">解绑service</string>
+</resources>
